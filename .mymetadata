@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="guomei"
+  id="myeclipse.1489990445874"
+  context-root="/guomei"
+  j2ee-spec="5.0"
+  archive="guomei.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
